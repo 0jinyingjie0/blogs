@@ -10,3 +10,6 @@
 * [MD使用教程](/MD使用教程)
 * [promise讲义](/promise讲义)
 * [Vue基础介绍](/Vue基础介绍)
+* [webAPI介绍](/webAPI介绍)
+* [JS基础](/JS基础)
+* [ECharts使用](/ECharts使用)
