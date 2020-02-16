@@ -5,15 +5,16 @@
   * [力扣简单算法题](/力扣简单算法题)
 
 * 前端知识
-  * [微信小程序](/微信小程序)
-  * [HTML和CSS基础](/HTML和CSS基础)
-  * [Vue基础介绍](/Vue基础介绍)
-  * [webAPI介绍](/webAPI介绍)
   * [JS基础](/JS基础)
-  * [promise讲义](/promise讲义)
+  * [微信小程序](/微信小程序)
+  * [HTML、C3](/HTML和CSS基础)
+  * [Vue基础](/Vue基础介绍)
+  * [WebAPI](/webAPI介绍)
+  * [promise](/promise讲义)
+  * [ES6介绍](/ES6介绍)
 
 * 其他
   * [MD使用教程](/MD使用教程)
-  * [常用的14种状态码](/常用的14种状态码)
   * [Git教程](/Git教程)
   * [ECharts使用](/ECharts使用)
+  * [常用状态码](/常用的14种状态码)
