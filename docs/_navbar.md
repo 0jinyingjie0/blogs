@@ -12,6 +12,7 @@
   * [组件传值](/组件传值)
   * [promise](/promise讲义)
   * [ES6介绍](/ES6介绍)
+  * [TypeScript](/TypeScript)
 
 * 算法题
   * [基础算法题](/基础算法题)
