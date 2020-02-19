@@ -5,6 +5,7 @@
 * [ES6介绍](/ES6介绍)
 * [JS基础](/JS基础)
 * [组件传值](/组件传值)
+* [node-mysql](/node-mysql)
 * [TypeScript](/TypeScript)
 * [微信小程序](/微信小程序)
 * [基础算法题](/基础算法题)

@@ -10,6 +10,7 @@
 
 * 前端拓展
   * [组件传值](/组件传值)
+  * [node-mysql](/node-mysql)
   * [promise](/promise讲义)
   * [ES6介绍](/ES6介绍)
   * [TypeScript](/TypeScript)
