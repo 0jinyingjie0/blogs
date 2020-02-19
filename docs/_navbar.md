@@ -6,14 +6,14 @@
   * [HTML、C3](/HTML和CSS基础)
   * [Vue基础](/Vue基础介绍)
   * [WebAPI](/webAPI介绍)
-
+  * [ES6介绍](/ES6介绍)
 
 * 前端拓展
   * [组件传值](/组件传值)
   * [node](/node)
   * [node-mysql](/node-mysql)
+  * [github介绍](/github介绍)
   * [promise](/promise讲义)
-  * [ES6介绍](/ES6介绍)
   * [TypeScript](/TypeScript)
 
 * 算法题
