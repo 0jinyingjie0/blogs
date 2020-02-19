@@ -4,6 +4,7 @@
 * [Git教程](/Git教程)
 * [ES6介绍](/ES6介绍)
 * [JS基础](/JS基础)
+* [node](/node)
 * [组件传值](/组件传值)
 * [node-mysql](/node-mysql)
 * [TypeScript](/TypeScript)
