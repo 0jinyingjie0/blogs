@@ -136,12 +136,12 @@ npm i -g  less(缩写)
   4.3、安装hexo 环境 `npm install -g hexo-cli`
 
   - 检查是否安装成功：`hexo --version `,出现版本号则表示安装成功
-- ![hexo01](D:\VUE\12-23\笔记\img\hexo01.png)
+- ![hexo01](img\hexo01.png)
   
 
 4.4、博客初始化 ` hexo init blog`
 
-![hexo02](D:\VUE\12-23\笔记\img\hexo02.png)
+![hexo02](img\hexo02.png)
 
 4.5、更改端口号：
 
@@ -163,23 +163,23 @@ npm i -g  less(缩写)
 
   - 找到blog 文件夹，找到config 文件，找到  `deploy` 、 ` type: ` 设置成键值对的形式：;
 
-  - ![post 设置](D:\VUE\12-23\笔记\img\post 设置.png)
+  - ![post 设置](img\post 设置.png)
 
   - ` type: git ` 
 
   - 在项目的根目录下（也就是说blog 下执行gitbash 命令 `npm install hexo-deployer-git --save`）  检测方式：
 
-  - ![hexo-deployer-git--save](D:\VUE\12-23\笔记\img\hexo-deployer-git--save.png)
+  - ![hexo-deployer-git--save](img\hexo-deployer-git--save.png)
 
   - 在上面的基础上执行 `hexo deploy --generate`  或者是 `hexo d` 就可以提交成功了
 
   - 看到的结果是：
 
-  - ![hexo deploy](D:\VUE\12-23\笔记\img\hexo deploy.png)
+  - ![hexo deploy](img\hexo deploy.png)
 
   - 通过用户名加github.io 就可以访问了 
 
-  - ![访问](D:\VUE\12-23\笔记\img\访问.png)
+  - ![访问](img\访问.png)
 
 - 部署的过程中注意blog 中文件夹的变化
   
