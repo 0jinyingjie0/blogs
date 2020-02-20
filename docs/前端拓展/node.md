@@ -1357,7 +1357,7 @@ post类型与get类型的接口区别较大，主要在两个方面：
    
    2. req.on("end",function(){})
 2. 解析参数
-   
+  
    1. queryString
 
 ```javascript
